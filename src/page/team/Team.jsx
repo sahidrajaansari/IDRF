@@ -13,12 +13,16 @@ function Team() {
     <section className="bg-white dark:bg-gray-900 my-15">
       <div className="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-6">
         <div className="mx-auto mb-8 max-w-screen-sm lg:mb-16">
-          <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">
-            Our team
+          <h2
+            className="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white"
+          >
+            Our Team
           </h2>
-          <p className="font-light text-gray-500 sm:text-xl dark:text-gray-400">
-            Explore the whole collection of open-source web components and
-            elements built with the utility classes from Tailwind
+          <p
+            className="font-light text-gray-500 sm:text-xl dark:text-gray-400"
+          >
+            "Great things in business are never done by one person; they're done
+            by a team of people." - Steve Jobs
           </p>
         </div>
         <div className="grid gap-8 lg:gap-16 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
@@ -31,9 +35,9 @@ function Team() {
                   alt="Bonnie Avatar"
                 />
                 <h3 className="mb-1 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-                  <a href="#">Bonnie Green</a>
+                  <a href="#">Team member-1</a>
                 </h3>
-                <p>CEO/Co-founder</p>
+                <p>Human Being</p>
               </div>
             </DialogTrigger>
             <DialogContent>
@@ -62,9 +66,9 @@ function Team() {
                   alt="Joseph Avatar"
                 />
                 <h3 className="mb-1 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-                  <a href="#">Joseph Mcfall</a>
+                  <a href="#">Team member-2</a>
                 </h3>
-                <p>Sales</p>
+                <p>Human Being</p>
               </div>
             </DialogTrigger>
             <DialogContent>
@@ -93,9 +97,9 @@ function Team() {
                   alt="Jese Avatar"
                 />
                 <h3 className="mb-1 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-                  <a href="#">Jese Leos</a>
+                  <a href="#">Team member-3</a>
                 </h3>
-                <p>SEO & Marketing</p>
+                <p>Human Being</p>
               </div>
             </DialogTrigger>
             <DialogContent>
@@ -124,9 +128,9 @@ function Team() {
                   alt="Helene Avatar"
                 />
                 <h3 className="mb-1 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-                  <a href="#">Helene Engels</a>
+                  <a href="#">Team Meamber-4</a>
                 </h3>
-                <p>CTO/Co-founder</p>
+                <p>Human Being</p>
               </div>
             </DialogTrigger>
             <DialogContent>
